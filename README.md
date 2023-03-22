@@ -24,5 +24,5 @@ Aplikasi My Story - Aplikasi yang menerapkan pengembangan aplikasi mobile dengan
 - Langkah pertama yang harus kalian lakukan adalah menyambungkan perangkat dengan koneksi Internet
 - Kemudian akses link berikut : [LINK](https://snack.expo.dev/@rozkoy/uts_120140006)
 
-**Kontak Saya** :
-> [Rozin](https://www.instagram.com/rozinnnnn_/)
+> **Kontak Saya** :
+[Rozin](https://www.instagram.com/rozinnnnn_/)
